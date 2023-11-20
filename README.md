@@ -13,7 +13,7 @@
 <a href="https://tailwindcss.com/docs/installation" target="_blank"><img style="margin: 10px" src="images/tailwindscss.jpg" alt="Tailwindcss" height="50" title='Tailwindcss'/></a> 
 <a href="https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/CSS_basics" target="_blank"><img style="margin: 10px" src="images/css.png" alt="CSS" height="50" title='CSS'/></a>   
 <a href="https://developer.mozilla.org/ru/docs/Learn/HTML/Introduction_to_HTML" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" title='HTML5'/></a>
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" title='JavaScript'/></a>
+<a href="https://learn.javascript.ru/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" title='JavaScript'/></a>
 </td><td valign="top" width="33%">
 
 
