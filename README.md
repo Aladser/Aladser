@@ -20,11 +20,11 @@
 
 ### Бэкенд 
 <div align="center">  
-<a href="https://www.php.net/manual/ru/index.php" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://laravel.com/docs/10.x" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>
+<a href="https://www.php.net/manual/ru/index.php" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" title='PHP'/></a>  
+<a href="https://laravel.com/docs/10.x" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel 10" height="50" title='Laravel 10'/></a>
 <a href="http://socketo.me/docs/" target="_blank"><img style="margin: 10px" src="images/ratchet.png" alt="Rathcet" height="50" title='Ratchet'/></a> 
-<a href="https://dev.mysql.com/doc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.postgresql.org/docs/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
+<a href="https://dev.mysql.com/doc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" title='MySQL'/></a>  
+<a href="https://www.postgresql.org/docs/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" title='PostgreSQL'/></a>  
 </div>
 
 </td><td valign="top" width="33%">
@@ -35,15 +35,15 @@
 <div align="center">  
 <a href="https://ubuntu.com/" target="_blank"><img style="margin: 10px" src="images/ubuntu.png" alt="Ubuntu" height="50" title='Ubuntu'/></a>
 <a href="https://www.centos.org/" target="_blank"><img style="margin: 10px" src="images/centos.png" alt="Centos" height="50" title='Centos'/></a>
-<a href="https://httpd.apache.org/" target="_blank"><img style="margin: 10px" src="images/apache.png" alt="Apache" height="50" /></a>
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a> 
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://httpd.apache.org/" target="_blank"><img style="margin: 10px" src="images/apache.png" alt="Apache" height="50" title='Apache'/></a>
+<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" title='Nginx'/></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" title='Docker'/></a> 
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" title='Git'/></a>  
 </div>
 
 </td></tr></table>
 <div align="center">  
 <a href="https://learn.microsoft.com/ru-ru/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="images/csharp.png" alt="C#" height="50" title='C#'/></a>
-<a href="https://habr.com/ru/articles/181772/" target="_blank"><img style="margin: 10px" src="images/mvc.jpg" alt="mvc" height="50" title='mvc'/></a>
-<a href="https://habr.com/ru/articles/181772/" target="_blank"><img style="margin: 10px" src="images/oop.png" alt="mvc" height="50" title='mvc'/></a>
+<a href="https://habr.com/ru/articles/181772/" target="_blank"><img style="margin: 10px" src="images/mvc.jpg" alt="mvc" height="50" title='MVC'/></a>
+<a href="https://habr.com/ru/articles/181772/" target="_blank"><img style="margin: 10px" src="images/oop.png" alt="mvc" height="50" title='ООП'/></a>
 </div> 
