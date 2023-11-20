@@ -1,3 +1,5 @@
+<hr>
+
 <div align="center">
   <br><br>
   <span style='font-weight:bold; font-size:2rem'>Andei Avramenko</span><br>
