@@ -1,13 +1,13 @@
-## <div align="center">  Andrei Avramenko </div>
-<div align="center">  PHP junior developer </div>
+## <div align="center">  Андрей Авраменко </div>
+<div align="center">  Веб-разработчик </div>
 <br><br>
 
-## My Skills 
+## Мои навыки
 <table><tr><td valign="top" width="33%">
 
 
 
-### Frontend  
+### Фронтенд
 <div align="center">  
 <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" title='Bootstrap'/></a>  
 <a href="https://tailwindcss.com/docs/installation" target="_blank"><img style="margin: 10px" src="images/tailwindscss.jpg" alt="Tailwindcss" height="50" title='Tailwindcss'/></a> 
@@ -18,7 +18,7 @@
 
 
 
-### Backend  
+### Бэкенд 
 <div align="center">  
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
 <a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" /></a>  
@@ -30,7 +30,7 @@
 
 
 
-### DevOps  
+### Администрирование  
 <div align="center">  
 <a href="https://ubuntu.com" target="_blank"><img style="margin: 10px" src="images/ubuntu.png" alt="Ubuntu" height="50" title='Ubuntu'/></a>
 <a href="https://www.centos.org" target="_blank"><img style="margin: 10px" src="images/centos.png" alt="Centos" height="50" title='Centos'/></a>
