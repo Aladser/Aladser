@@ -3,12 +3,11 @@
 <br><br>
 
 ## Мои навыки
-<div style="text-align:center">
 <table><tr><td valign="top" width="33%">
 
 
 
-### Фронтенд
+### <div style="text-align:center">Фронтенд</div>  
 <div align="center">  
 <a href="https://learn.javascript.ru/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" title='JavaScript'/></a>
 <a href="https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/CSS_basics" target="_blank"><img style="margin: 10px" src="images/css.png" alt="CSS" height="50" title='CSS'/></a>   
@@ -42,7 +41,6 @@
 </div>
 
 </td></tr></table>
-</div>  
 <div align="center">  
 <a href="https://learn.microsoft.com/ru-ru/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="images/csharp.png" alt="C#" height="50" title='C#'/></a>
 <a href="https://habr.com/ru/articles/181772/" target="_blank"><img style="margin: 10px" src="images/mvc.jpg" alt="mvc" height="50" title='mvc'/></a>
