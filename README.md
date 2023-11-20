@@ -3,6 +3,7 @@
 <br><br>
 
 ## Мои навыки
+<div style="text-align:center">
 <table><tr><td valign="top" width="33%">
 
 
@@ -40,13 +41,11 @@
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
 
-</td></tr>
-
-<tr><td>
-
-### Другие навыки
+</td></tr></table>
+</div>  
+<hr>
 <div align="center">  
 <a href="https://learn.microsoft.com/ru-ru/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="images/csharp.png" alt="C#" height="50" title='C#'/></a>
-</div>  
-</td></tr>
-</table>  
+<a href="https://habr.com/ru/articles/181772/" target="_blank"><img style="margin: 10px" src="images/mvc.jpg" alt="mvc" height="50" title='mvc'/></a>
+<a href="https://habr.com/ru/articles/181772/" target="_blank"><img style="margin: 10px" src="images/oop.png" alt="mvc" height="50" title='mvc'/></a>
+</div> 
