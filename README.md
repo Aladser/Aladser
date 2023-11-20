@@ -1,5 +1,12 @@
-## <div align="center">Andrei Avramenko</div>
-*<div align="center">PHP junior developer</div>*
+<div align="center">
+  <br><br>
+  <span style='font-weight:bold; font-size:2rem'>Andei Avramenko</span><br>
+  <span style='font-style:italic'>PHP junior developer
+  </span>
+</div>
+
+<br/>  
+
 
 ## My Skills 
 <table><tr><td valign="top" width="33%">
