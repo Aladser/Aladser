@@ -43,7 +43,6 @@
 
 </td></tr></table>
 </div>  
-<hr>
 <div align="center">  
 <a href="https://learn.microsoft.com/ru-ru/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="images/csharp.png" alt="C#" height="50" title='C#'/></a>
 <a href="https://habr.com/ru/articles/181772/" target="_blank"><img style="margin: 10px" src="images/mvc.jpg" alt="mvc" height="50" title='mvc'/></a>
