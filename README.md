@@ -36,7 +36,7 @@
 <a href="https://ubuntu.com/" target="_blank"><img style="margin: 10px" src="images/ubuntu.png" alt="Ubuntu" height="50" title='Ubuntu'/></a>
 <a href="https://httpd.apache.org/" target="_blank"><img style="margin: 10px" src="images/apache.png" alt="Apache" height="50" title='Apache'/></a>
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" title='Docker'/></a> 
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" title='Git'/></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="images/git.png" alt="Git" height="50" title='Git'/></a>  
 </div>
 
 </td></tr></table>
