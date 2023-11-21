@@ -34,9 +34,7 @@
 ### Администрирование  
 <div align="center">  
 <a href="https://ubuntu.com/" target="_blank"><img style="margin: 10px" src="images/ubuntu.png" alt="Ubuntu" height="50" title='Ubuntu'/></a>
-<a href="https://www.centos.org/" target="_blank"><img style="margin: 10px" src="images/centos.png" alt="Centos" height="50" title='Centos'/></a>
 <a href="https://httpd.apache.org/" target="_blank"><img style="margin: 10px" src="images/apache.png" alt="Apache" height="50" title='Apache'/></a>
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" title='Nginx'/></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" title='Docker'/></a> 
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" title='Git'/></a>  
 </div>
