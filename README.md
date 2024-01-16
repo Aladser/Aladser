@@ -41,7 +41,8 @@
 
 </td></tr></table>
 <div align="center">  
-<a href="https://learn.microsoft.com/ru-ru/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="images/csharp.png" alt="C#" height="50" title='C#'/></a>
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="images/csharp.png" alt="C#" height="50" title='C#'/></a>
+<a href="https://learn.microsoft.com/ru-ru/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="images/python.png" alt="C#" height="50" title='C#'/></a>
 <a href="https://habr.com/ru/articles/181772/" target="_blank"><img style="margin: 10px" src="images/mvc.jpg" alt="mvc" height="50" title='MVC'/></a>
 <a href="https://habr.com/ru/articles/181772/" target="_blank"><img style="margin: 10px" src="images/oop.png" alt="mvc" height="50" title='ООП'/></a>
 </div> 
