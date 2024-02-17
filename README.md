@@ -2,7 +2,7 @@
 #### <div align="center"> Бэкенд разработчик </div>
 <br><br>
 
-## Мои навыки
+## Стек
 <table><tr><td valign="top" width="33%">
 
 
