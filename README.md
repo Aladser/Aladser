@@ -36,12 +36,12 @@
 ### Администрирование  
 <div align="center">  
 <a href="https://ubuntu.com/" target="_blank"><img style="margin: 10px" src="images/ubuntu.png" alt="Ubuntu" height="50" title='Ubuntu'/></a>
-<a href="https://httpd.apache.org/" target="_blank"><img style="margin: 10px" src="images/apache.png" alt="Apache" height="50" title='Apache'/></a>
+<a href="https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-20-04" target="_blank"><img style="margin: 10px" src="images/apache.png" alt="Apache" height="50" title='Apache'/></a>
 <a href="https://my-js.org/docs/guide/docker/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" title='Docker'/></a> 
 </div>
 
 </td></tr></table>
 <div align="center">  
-<a href="https://learn.microsoft.com/ru-ru/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="images/csharp.png" alt="C#" height="50" title='C#'/></a>
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="images/python.png" alt="C#" height="50" title='Python'/></a>
+    <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="images/python.png" alt="C#" height="50" title='Python'/></a>
+    <a href="https://learn.microsoft.com/ru-ru/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="images/csharp.png" alt="C#" height="50" title='C#'/></a>
 </div> 
