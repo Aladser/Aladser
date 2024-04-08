@@ -34,7 +34,8 @@
 
 
 ### Администрирование  
-<div align="center">  
+<div align="center">
+<a href="https://www.microsoft.com/ru-ru/download/details.aspx?id=45520" target="_blank"><img style="margin: 10px" src="images/win10.png" alt="Ubuntu" height="50" title='Windows 10'/></a>  
 <a href="https://ubuntu.com/" target="_blank"><img style="margin: 10px" src="images/ubuntu.png" alt="Ubuntu" height="50" title='Ubuntu'/></a>
 <a href="https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-20-04" target="_blank"><img style="margin: 10px" src="images/apache.png" alt="Apache" height="50" title='Apache'/></a>
 <a href="https://my-js.org/docs/guide/docker/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" title='Docker'/></a> 
