@@ -14,7 +14,6 @@
 <a href="https://developer.mozilla.org/ru/docs/Learn/HTML/Introduction_to_HTML" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" title='HTML5'/></a>
 <a href="https://bootstrap5.ru/docs/getting-started/introduction/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" title='Bootstrap'/></a>  
 <a href="https://tailwindcss.ru/docs/installation" target="_blank"><img style="margin: 10px" src="images/tailwindscss.jpg" alt="Tailwindcss" height="50" title='Tailwindcss'/></a> 
-<a href="https://sass-scss.ru/documentation/" target="_blank"><img style="margin: 10px" src="images/sass.png" alt="SASS" height="50" title='SASS'/></a> 
 </td><td valign="top" width="33%">
 
 
