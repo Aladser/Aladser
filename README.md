@@ -2,7 +2,7 @@
 
 ## Стек
 <table>
-<tr>
+<tr width="100%">
 <td valign="top" width="30%">
 
 ### Фронтенд
