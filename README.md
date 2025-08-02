@@ -5,8 +5,7 @@
 ## Стек
 <table>
     <tr>
-        <td valign="top">
-</td><td valign="top" width="33%">
+<td valign="top" width="33%">
 
 ### <div style="text-align:center; width:100% border:1px solid black">Фронтенд</div>  
 <div align="center">  
