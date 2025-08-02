@@ -14,9 +14,6 @@
             <a href="https://bootstrap5.ru/docs/getting-started/introduction/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" title='Bootstrap'/></a>  
             <a href="https://tailwindcss.ru/docs/installation" target="_blank"><img style="margin: 10px" src="images/tailwindscss.jpg" alt="Tailwindcss" height="50" title='Tailwindcss'/></a> 
             </td><td valign="top" width="33%">
-        </td>
-
-        <td valign="top" width="33%">
             ### Бэкенд 
             <div align="center">  
                 <a href="https://www.php.net/manual/ru/index.php" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" title='PHP'/></a>  
@@ -27,9 +24,6 @@
                 <a href="http://socketo.me/docs/" target="_blank"><img style="margin: 10px" src="images/ratchet.png" alt="Rathcet" height="50" title='Ratchet'/></a>
                 <a href="https://metanit.com/python/django/" target="_blank"><img style="margin: 10px" src="images/django.png" alt="Django" height="50" title='Django'/></a> 
             </div>
-        </td>
-
-        <td valign="top" width="33%">
             ### Администрирование  
             <div align="center">
             <a href="https://www.microsoft.com/ru-ru/download/details.aspx?id=45520" target="_blank"><img style="margin: 10px" src="images/win10.png" alt="Ubuntu" height="50" title='Windows 10'/></a>  
