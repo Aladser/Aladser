@@ -27,6 +27,7 @@
     <a href="https://dev.1c-bitrix.ru/api_help/" target="_blank"><img style="margin: 10px" src="images/bitrix.png" alt="PostgreSQL" height="50" title='Bitrix'/></a>
     <a href="http://socketo.me/docs/" target="_blank"><img style="margin: 10px" src="images/ratchet.png" alt="Rathcet" height="50" title='Ratchet'/></a>
     <a href="https://metanit.com/python/django/" target="_blank"><img style="margin: 10px" src="images/django.png" alt="Django" height="50" title='Django'/></a> 
+    <a href="https://joomla.ru/about/versions/joomla3" target="_blank"><img style="margin: 10px" src="images/joomla.jpeg" alt="Joomla" height="50" title='Joomla'/></a>
 </div>
 </td>
 
