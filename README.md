@@ -1,6 +1,5 @@
 ## <div align="center">  Андрей Авраменко </div>
 #### <div align="center"> Бэкенд разработчик </div>
-<br>
 
 ## Стек
 <table>
