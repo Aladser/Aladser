@@ -5,7 +5,7 @@
 ## Стек
 <table>
     <tr>
-<td valign="top" width="100%">
+<td valign="top" width="30%">
 
 ### Фронтенд
 <div align="center">  
@@ -17,7 +17,7 @@
     
 </td>
     
-<td valign="top" width="100%">
+<td valign="top" width="30%">
     
 ### Бэкенд 
 <div align="center">  
@@ -32,7 +32,7 @@
 
 </td>
 
-<td valign="top" width="100%">
+<td valign="top" width="30%">
 
 ### Администрирование  
 <div align="center">
