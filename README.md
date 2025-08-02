@@ -1,6 +1,7 @@
 ### <div align="center"> Бэкенд разработчик </div>
 
 ## Стек
+<div align="center">  
 <table width="100">
 <tr>
 <td valign="top" width="30%">
@@ -42,6 +43,7 @@
 
 </tr>
 </table>
+</div> 
 
 <div align="center">  
     <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="images/python.png" alt="C#" height="50" title='Python'/></a>
