@@ -14,8 +14,11 @@
 <a href="https://developer.mozilla.org/ru/docs/Learn/HTML/Introduction_to_HTML" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" title='HTML5'/></a>
 <a href="https://bootstrap5.ru/docs/getting-started/introduction/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" title='Bootstrap'/></a>  
 <a href="https://tailwindcss.ru/docs/installation" target="_blank"><img style="margin: 10px" src="images/tailwindscss.jpg" alt="Tailwindcss" height="50" title='Tailwindcss'/></a> 
-</td><td valign="top" width="33%">
-
+    
+</td>
+    
+<td valign="top" width="33%">
+    
 ### Бэкенд 
 <div align="center">  
     <a href="https://www.php.net/manual/ru/index.php" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" title='PHP'/></a>  
@@ -27,9 +30,9 @@
     <a href="https://metanit.com/python/django/" target="_blank"><img style="margin: 10px" src="images/django.png" alt="Django" height="50" title='Django'/></a> 
 </div>
 
-</td><td valign="top" width="33%">
+</td>
 
-
+<td valign="top" width="33%">
 
 ### Администрирование  
 <div align="center">
@@ -38,7 +41,9 @@
 <a href="https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-20-04" target="_blank"><img style="margin: 10px" src="images/apache.png" alt="Apache" height="50" title='Apache'/></a>
 <a href="https://my-js.org/docs/guide/docker/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" title='Docker'/></a> 
 </div>
+
 </td>
+
 </tr>
 </table>
 
