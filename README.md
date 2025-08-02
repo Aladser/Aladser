@@ -2,8 +2,8 @@
 
 ## Стек
 <table>
-<tr width="100%">
-<td valign="top" width="30%">
+<tr>
+<td valign="top" width="40%">
 
 ### Фронтенд
 <div align="center">  
